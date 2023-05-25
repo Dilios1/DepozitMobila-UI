@@ -1,0 +1,3 @@
+Canapea, Capea Piele, Piele, Maro, 1, 1000
+Masa, Masa Lemn, Lemn, Alb, 2, 500
+Scaun, Scaun Plastic, Plastic, Negru, 4, 200

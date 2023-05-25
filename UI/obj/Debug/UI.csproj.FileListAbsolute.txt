@@ -1,0 +1,17 @@
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.Form1.resources
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\doina\source\repos\Proiect PIU\UI\bin\Debug\UI.exe.config
+C:\Users\doina\source\repos\Proiect PIU\UI\bin\Debug\UI.exe
+C:\Users\doina\source\repos\Proiect PIU\UI\bin\Debug\UI.pdb
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.exe
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.pdb
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.FormClienti.resources
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.FormAdaugareClient.resources
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.FormListaClienti.resources
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.FormAdaugareMobila.resources
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.FormListaMobila.resources
+C:\Users\doina\source\repos\Proiect PIU\UI\obj\Debug\UI.FormMobila.resources
